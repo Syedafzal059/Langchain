@@ -1,22 +1,25 @@
-# SQLite-Agent
+# Langchain
 
-SQLite-Agent is a lightweight and versatile tool designed to provide seamless integration of SQLite database functionalities into your projects using Langchain.
+Langchain is a repository containing various GenAI projects, each housed within its own folder. Each project utilizes Langchain, a framework for integrating Generative Artificial Intelligence (GenAI) models, for performing various natural language processing tasks. Each project folder contains a project-specific README file providing detailed information about the project and how to use it.
 
-## Features
+## Projects
 
-- **Langchain Integration**: Utilize the power of Langchain to easily interact with SQLite databases using natural language commands.
-- **Lightweight**: Minimal footprint ensuring efficient performance without unnecessary bloat.
-- **Flexible Querying**: Execute complex SQL queries effortlessly through simple language commands.
-- **Customizable**: Easily extend functionality and tailor to specific project needs.
-- **Documentation**: Comprehensive documentation and examples are provided for quick integration and usage.
-### Usage 
-- Import the SQLite-Agent module into your project.
-- Initialize the SQLite-Agent and provide the necessary database connection details.
-- Start executing queries using natural language commands.
+The repository currently includes the following projects:
 
-## Installation
+- [MedBot](MedBot/README.md)
+- [SQLite_agent](SQLite_agent/README.md)
+- ...
 
-To install SQLite-Agent, simply clone this repository:
+Each project folder contains a README file with project-specific instructions, usage examples, and other relevant details.
 
-```bash
-git clone https://github.com/SyedAfzal059/SQLlite_agent.git
+## Getting Started
+
+To get started with any project in Langchain, navigate to the specific project folder and follow the instructions provided in the project-specific README file.
+
+## Contributing
+
+Contributions to Langchain are welcome! If you have a GenAI project that you'd like to add to Langchain or if you want to improve existing projects, please follow the guidelines provided in each project's README file.
+
+## License
+
+The code in this repository is open-source and available under the [MIT License](LICENSE).
