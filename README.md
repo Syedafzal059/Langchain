@@ -7,7 +7,7 @@ Langchain is a repository containing various GenAI projects, each housed within 
 The repository currently includes the following projects:
 
 - [MedBot](MedBot/README.md)
-- [SQLite_agent](SQLite_agent/README.md)
+- [SQLlite_agent](SQLlite_agent/README.md)
 - ...
 
 Each project folder contains a README file with project-specific instructions, usage examples, and other relevant details.
