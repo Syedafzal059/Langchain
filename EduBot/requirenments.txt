@@ -1,0 +1,15 @@
+langchain
+#langchain-cummunity
+streamlit
+pypdf
+langchain-text-splitters
+huggingface_hub
+faiss-cpu
+streamlit_chat
+ctransformers
+
+
+#torch
+#sentecnce_transformers
+#bitstandbytes
+#torch
