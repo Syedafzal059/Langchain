@@ -46,7 +46,7 @@ For any inquiries or feedback regarding EduBot, please contact [insert contact i
 
 ## License:
 
-This project is licensed under the [insert license name]. See the LICENSE file for more details.
+This project is licensed under the MIT. See the LICENSE file for more details.
 
 ---
 
