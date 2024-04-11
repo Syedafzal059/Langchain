@@ -36,7 +36,7 @@ To run MedBot locally on your machine, follow these steps:
 
 2. Install the necessary dependencies by running `pip install -r requirements.txt`.
 
-3. Run the Streamlit app using the command `streamlit run app.py`.
+3. Run the Streamlit app using the command `streamlit run medbot.py`.
 
 4. Access MedBot through your web browser and start exploring home remedy recommendations.
 
