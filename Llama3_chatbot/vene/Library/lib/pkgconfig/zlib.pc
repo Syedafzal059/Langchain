@@ -1,0 +1,13 @@
+prefix=E:/Langchain_experiments/Llama3_chatbot/vene/Library
+exec_prefix=E:/Langchain_experiments/Llama3_chatbot/vene/Library
+libdir=E:/Langchain_experiments/Llama3_chatbot/vene/Library/lib
+sharedlibdir=E:/Langchain_experiments/Llama3_chatbot/vene/Library/lib
+includedir=E:/Langchain_experiments/Llama3_chatbot/vene/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
